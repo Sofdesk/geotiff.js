@@ -1,4 +1,5 @@
 node_modules
+<<<<<<< HEAD
 .cache
 dist
 dist-node
@@ -6,3 +7,6 @@ dist-browser
 docs
 .DS_Store
 .idea
+=======
+.idea
+>>>>>>> 06a8b8d (dist update and gitignore update)
